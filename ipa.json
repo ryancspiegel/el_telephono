@@ -2,11 +2,7 @@
   "name": "ryancspiegel",
   "identifier": "com.ryancspiegel.source",
   "sourceURL": "https://raw.githubusercontent.com/ryancspiegel/el_telephono/main/ipa.json",
-  "subtitle": "",
-  "description": "",
   "iconURL": "https://avatars.githubusercontent.com/u/37194499?v=4",
-  "website": "",
-  "patreonURL": "",
   "tintColor": "#970fd4",
   "featuredApps": [],
   "apps": [
