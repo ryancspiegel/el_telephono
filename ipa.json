@@ -1,0 +1,97 @@
+{
+"name": 
+"ryancspiegel",
+"subtitle": 
+"",
+"description": 
+"",
+"iconURL": 
+"https://avatars.githubusercontent.com/u/37194499?v=4",
+"website": 
+"",
+"patreonURL": 
+"",
+"tintColor": 
+"#970fd4",
+"featuredApps": 
+[
+]
+}
+Code viewer
+Code
+{
+"name": 
+"ryancspiegel",
+"subtitle": 
+"",
+"description": 
+"",
+"iconURL": 
+"https://avatars.githubusercontent.com/u/37194499?v=4",
+"website": 
+"",
+"patreonURL": 
+"",
+"tintColor": 
+"#970fd4",
+"featuredApps": 
+[
+],
+"apps": 
+[
+{
+"name": 
+"YouTube Music",
+"bundleIdentifier": 
+"com.google.ios.youtubemusic",
+"marketplaceID": 
+"",
+"developerName": 
+"Example Developer",
+"subtitle": 
+"An awesome app.",
+"localizedDescription": 
+"This is an awesome app only available on AltStore.",
+"iconURL": 
+"https://i.imgur.com/OXDhZHe.png",
+"tintColor": 
+"#fc0434",
+"category": 
+"other",
+"screenshots": 
+[
+],
+"versions": 
+[
+{
+"downloadURL": 
+"https://github.com/ryancspiegel/el_telephono/releases/download/IPA/YTMusicUltimate.ipa",
+"size": 
+101800000,
+"version": 
+"9.16.4",
+"buildVersion": 
+null,
+"date": 
+"2026-05-06T16:09:00-04:00",
+"localizedDescription": 
+null,
+"minOSVersion": 
+null
+}
+],
+"appPermissions": 
+{
+"entitlements": 
+[
+],
+"privacy": 
+{
+"NSBluetoothAlwaysUsageDescription": 
+"YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+"NSBluetoothPeripheralUsageDescription": 
+"YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+"NSCameraUsageDescription": 
+"To take a profile picture, allow YouTube Music to access your camera.",
+"NSContactsUsageDescription": 
+"This will allow you to invite your family into your membership plan.",
